@@ -1,0 +1,1 @@
+For this project, I created a simple calculator using HTML, CSS, and JavaScript. What makes this calculator special is the addition of a toggle button that allows users to switch between light mode 🌕 and dark mode 🌑. This provides a better user experience by catering to different lighting conditions and personal preferences.
